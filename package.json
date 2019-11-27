@@ -1,0 +1,22 @@
+{
+  "name": "@bulletyuan/style",
+  "version": "0.0.1",
+  "description": "styles of bulletyuan",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BulletYuan/bulletyuan-style.git"
+  },
+  "keywords": [
+    "bulletyuan",
+    "tool",
+    "@bulletyuan/style"
+  ],
+  "author": "bullet.Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BulletYuan/bulletyuan-style/issues"
+  },
+  "homepage": "https://github.com/BulletYuan/bulletyuan-style#readme"
+}
